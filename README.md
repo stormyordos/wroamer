@@ -32,7 +32,7 @@ usage: wroamer.py [-h] [-c CIDR] [-p PORTS] [-f SCANFILE] [-nP] [-u USERNAME]
 * Supports both Firefox and Chrome in pseudo-headless modes
 * Captures screenshots of visited services for later browsing
 * Useful during pentest engagements in order to quickly map internal Web services
-* *Experimental : auto-logging on visited sites
+* *Experimental* : auto-logging on visited sites
 
 # Installation
 * ` git clone https://github.com/stormyordos/wroamer.git `
