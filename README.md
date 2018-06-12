@@ -8,7 +8,7 @@ usage: wroamer.py [-h] [-c CIDR] [-p PORTS] [-f SCANFILE] [-nP] [-u USERNAME]
                   [-pw PASSWORD] [-b BINARY] [-fx]
 
  optional arguments:
-    h, --help            show this help message and exit
+  -h, --help            show this help message and exit
   -c CIDR, --cidr CIDR  CIDR-compliant IP addresses to scan for Web interfaces
   -p PORTS, --ports PORTS
                         ports to search for Web services (comma-separated, no
