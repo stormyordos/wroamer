@@ -168,8 +168,8 @@ try:
 
                     browser.save_screenshot("./"+curaddr+"-"+curport+".png")     
 
-    #if not (nmapcommand == ""):
-    #    os.remove("./temp.xml")
+    if not (nmapcommand == ""):
+        os.remove("./temp.xml")
 finally:
     browser.quit()
     display.stop()
